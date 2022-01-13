@@ -4,6 +4,8 @@ nearly all of these jupyter notebook files require additional download of a subs
 The dataset is specified in the naming convention of the file.
 Alternatively, the HTML is provided for you. 
 
+Ignore the wacky HTML names here and there. Forgot where some files were on computer
+
 HW1: Data Cleaning and Management
 -dataset manipulation, combination, cleaning, etc
 -openrefine usage
